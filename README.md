@@ -223,24 +223,31 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![Screenshot 2024-03-09 001923](https://github.com/NivethaKumar30/nn-classification/assets/119559844/34eceeaa-762a-4df1-b417-a0baf3c049a9)
+
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-Include your plot here
+
+![Screenshot 2024-03-09 000211](https://github.com/NivethaKumar30/nn-classification/assets/119559844/a9c8a680-ea02-41d8-a14a-09ac87dfc6a8)
+
 
 ### Classification Report
 
-Include Classification Report here
+![Screenshot 2024-03-09 001831](https://github.com/NivethaKumar30/nn-classification/assets/119559844/5bacd4ac-4c14-4d5e-8266-67d8849b7221)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![Screenshot 2024-03-09 001825](https://github.com/NivethaKumar30/nn-classification/assets/119559844/48fa2a5c-708a-4bed-aa27-057f82b2906b)
+
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![Screenshot 2024-03-09 002110](https://github.com/NivethaKumar30/nn-classification/assets/119559844/3d5a4a39-93a2-4dc0-abfc-435f2a105d57)
+
 
 ## RESULT
-Include your result here
+
+A neural network classification model is developed for the given dataset.
